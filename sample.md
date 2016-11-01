@@ -2,19 +2,21 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# タイトル
-１ページ目
+# ビッグデータ活用展訪問記
+LBI開発 櫛田美怜
 ---
 layout:false
-## スライド１
-### スライド１
-２ページ目
+## Agenda
 
-* コードを書く
-```
-// コードを書く
-abc
-```
+1. 他社BI製品及びサービス紹介
+  * 分析eye
+  * Board
+  * DATUM STUDIO
+  * Realize
+
+2. ビッグデータ活用展セミナー
+  * AIによるビッグデータ活用の課題と共創的アプローチ
+  * リクルートAI研究所が進める「データサイエンス」の民主化とは？
 ---
 ## スライド２
 ### スライド２
