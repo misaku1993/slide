@@ -6,7 +6,7 @@ class: center, middle, inverse
 １ページ目
 ---
 layout:false
-## スライド１
+## 
 ### スライド１
 ２ページ目
 
